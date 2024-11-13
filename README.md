@@ -10,6 +10,9 @@ Amazon.css: CSS file for styling, including responsive media queries.
 🛠️ Technologies Used
 HTML5: For page structure and content.
 CSS3: For styling, layout, and responsiveness.
+📷 Screenshot
+![image](https://github.com/user-attachments/assets/6a9bb31b-55f7-4565-901a-8e59c221b622)
+
 💡 Purpose
 This project is a practice exercise to enhance my skills in HTML and CSS, specifically focusing on layout, responsiveness, and design replication.
 
