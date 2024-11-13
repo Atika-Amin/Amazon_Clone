@@ -1,8 +1,7 @@
-A responsive clone of the Amazon homepage, built using HTML and CSS. This project replicates Amazon’s layout, styling, and structure to practice frontend skills and focus on CSS design
+A clone of the Amazon homepage, built using HTML and CSS. This project replicates Amazon’s layout, styling, and structure to practice frontend skills and focus on CSS design
 consistency.
 
 🚀 Features
-Responsive Design: Adjusts layout based on screen size for an optimal viewing experience on mobile, tablet, and desktop.
 Grid Layout: Uses CSS Grid for clean and organized sections.
 CSS Styling: Custom styles to match Amazon’s look and feel, including fonts, colors, and spacing.
 📁 Project Structure
